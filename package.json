@@ -1,0 +1,9 @@
+{
+  "name": "antibot-proxy",
+  "version": "1.0.0",
+  "description": "Proxy local com agente VIAGENS",
+  "main": "node-proxy.js",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
